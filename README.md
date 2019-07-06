@@ -1,3 +1,32 @@
+
+# Summary
+## Learn the MERN  Stack (MongoDB, Express, React, Node.js)
+
+https://www.youtube.com/watch?v=7CqJlxBYj-M
+https://github.com/beaucarnes/mern-exercise-tracker-mongodb
+
+Use : Mongodb Atlas, insomnia, nodemon....
+
+### Make project
+```
+npx create-react-app mern-exercise-tracker
+mkdir backend
+cd backend
+npm install express cors mongoose dotenv
+```
+
+### service start
+```
+npm start
+cd backend
+nodemon server
+```
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
